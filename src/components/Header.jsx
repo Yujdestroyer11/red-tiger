@@ -2,8 +2,8 @@
 export default function Header() {
     return (
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark py-3" aria-label="Offcanvas navbar large">
-            <div class="container-fluid px-5">
-                <a class="display-6 fw-bold text-danger" href="/">Red Tiger Construction</a>
+            <div class="container-fluid px-4">
+                <a class="fs-3 fw-bold text-danger" href="/">Red Tiger Construction</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar2" aria-controls="offcanvasNavbar2" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
