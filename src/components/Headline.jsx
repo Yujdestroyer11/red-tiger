@@ -1,4 +1,4 @@
-import image2 from "../../public/photos/image2.jpg";
+import image2 from "../../public/images/image2.jpg";
 
 export default function Headline() {
   return (
