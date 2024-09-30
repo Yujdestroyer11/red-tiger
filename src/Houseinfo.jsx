@@ -28,42 +28,48 @@ const info = [
     price: 2,
     name: "Project Arylla",
     houseprice: "2 million house",
-    profile: "../public/images/image3.jpg",
+    profile:
+      "https://postandporch.com/cdn/shop/articles/AdobeStock_209124760.jpg?v=1662575433&width=1100",
   },
   {
     id: 5,
     price: 2,
     name: "Project Arylla",
     houseprice: "2 million house",
-    profile: "../public/images/image3.jpg",
+    profile:
+      "https://postandporch.com/cdn/shop/articles/AdobeStock_209124760.jpg?v=1662575433&width=1100",
   },
   {
     id: 6,
     price: 2,
     name: "Project Arylla",
     houseprice: "2 million house",
-    profile: "../public/images/image3.jpg",
+    profile:
+      "https://postandporch.com/cdn/shop/articles/AdobeStock_209124760.jpg?v=1662575433&width=1100",
   },
   {
     id: 7,
     price: 2,
     name: "Project Arylla",
     houseprice: "2 million house",
-    profile: "../public/images/image3.jpg",
+    profile:
+      "https://static.vecteezy.com/system/resources/thumbnails/023/308/053/small_2x/ai-generative-exterior-of-modern-luxury-house-with-garden-and-beautiful-sky-photo.jpg",
   },
   {
     id: 8,
     price: 3,
     name: "Project Carmella",
     houseprice: "3 million house",
-    profile: "../public/images/image4.jpg",
+    profile:
+      "https://static.vecteezy.com/system/resources/thumbnails/023/308/053/small_2x/ai-generative-exterior-of-modern-luxury-house-with-garden-and-beautiful-sky-photo.jpg",
   },
   {
     id: 9,
     price: 3,
     name: "Project Carmella",
     houseprice: "3 million house",
-    profile: "../public/images/image4.jpg",
+    profile:
+      "https://static.vecteezy.com/system/resources/thumbnails/023/308/053/small_2x/ai-generative-exterior-of-modern-luxury-house-with-garden-and-beautiful-sky-photo.jpg",
   },
 ];
 export default info;
