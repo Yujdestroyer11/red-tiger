@@ -1,4 +1,3 @@
-import construction from "../../public/images/construction.jpg";
 import image4 from "../../public/images/image4.jpg";
 
 export default function Hero() {
