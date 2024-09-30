@@ -53,7 +53,7 @@ const info = [
     name: "Project Arylla",
     houseprice: "2 million house",
     profile:
-      "https://static.vecteezy.com/system/resources/thumbnails/023/308/053/small_2x/ai-generative-exterior-of-modern-luxury-house-with-garden-and-beautiful-sky-photo.jpg",
+      "https://postandporch.com/cdn/shop/articles/AdobeStock_209124760.jpg?v=1662575433&width=1100",
   },
   {
     id: 8,
