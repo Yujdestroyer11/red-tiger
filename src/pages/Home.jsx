@@ -5,19 +5,21 @@ import Headline2 from "../components/Headline2";
 import Testimonials from "../components/Testimonials";
 import Jumbotron from "../components/Jumbotron";
 import Buildnow from "../components/Buildnow";
+import Test from "../components/Tes";
 
 export default function Home() {
-    return (
-        <div>   
-            <Hero />
-            <Headline2 />
-            <Headline />
-            <Headline2 />
-            <Headline />
-            <Features />
-            <Buildnow />
-            <Testimonials />
-            <Jumbotron />
-        </div>
-    )
+  return (
+    <div>
+      <Hero />
+      <Headline2 />
+      <Headline />
+      <Headline2 />
+      <Headline />
+      <Test />
+      <Features />
+      <Buildnow />
+      <Testimonials />
+      <Jumbotron />
+    </div>
+  );
 }
